@@ -66,7 +66,7 @@ Event handling for form submission and buttons
 
 🪄 How to Run the Application
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/react-todo-app.git
+git@github.com:farid-hu-sain/project_React.JS_week_1.git
 cd react-todo-app
 
 2️⃣ Install Dependencies
@@ -91,16 +91,24 @@ Inline styles for conditional UI (e.g., line-through on completed todos)
 
 Responsive design is achieved with flexible layout and relative sizing.
 
+
 ✅ Acceptance Criteria Checklist
-Criteria	Status
-Add Todo	✅ Implemented
-Display Todo List	✅ Implemented
-Toggle Completion	✅ Implemented
-Delete Todo	✅ Implemented
-Filter Todos	✅ Implemented
-Component-based Structure	✅ Yes
+
+Criteria	                          Status
+Add Todo	                      ✅ Implemented
+Display Todo List	              ✅ Implemented
+Toggle Completion	              ✅ Implemented
+Delete Todo	                    ✅ Implemented
+Filter Todos	                  ✅ Implemented
+Component-based Structure	      ✅ Yes
 State Management with useState	✅ Yes
-Props Usage	✅ Yes
-JSX & Conditional Rendering	✅ Yes
-Responsive Styling	✅ Yes
-No Console Errors	✅ Yes
+Props Usage	                    ✅ Yes
+JSX & Conditional Rendering	    ✅ Yes
+Responsive Styling	            ✅ Yes
+No Console Errors	              ✅ Yes
+
+
+🧾 License
+
+This project is created for educational purposes as part of a React Programmer Course Take Home Test.
+You may modify and use it for learning or demonstration purposes.
