@@ -108,6 +108,9 @@ Responsive Styling	            ✅ Yes
 No Console Errors	              ✅ Yes
 
 
+Vercell = project-react-js-week-1-qt80nnum2-farid-hu-sains-projects.vercel.app
+
+
 🧾 License
 
 This project is created for educational purposes as part of a React Programmer Course Take Home Test.
